@@ -1,0 +1,19 @@
+.image4{
+    /* position:absolute;  */
+    margin-top: 0px;
+    background-color: gray;
+    font-size: 50;
+    font-family:'Gothic Pro';
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-weight: 800;
+    /* text-align:left; */
+    /* color: #07f81b; */
+    /* margin-left: 0px; */
+    float: left;
+    width: 40%;
+    height: 80px;
+    /* background: url("./images/MENU4.png"); */
+    /* background-size: 100%; */
+    z-index: 2;
+    
+}
