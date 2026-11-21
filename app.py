@@ -10,12 +10,12 @@ def student():
 
 
 
-# if __name__ == '__main__':  
-# 	app.run(debug=True)
+if __name__ == '__main__':  
+	app.run(debug=True)
  
  
  
  
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 4242))
-    app.run(host="0.0.0.0", port=port, debug=True)
+# if __name__ == "__main__":
+#     port = int(os.getenv("PORT", 4242))
+#     app.run(host="0.0.0.0", port=port, debug=True)
