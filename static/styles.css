@@ -1,10 +1,9 @@
 .image4{margin-top: 0px;
-        font-size: 20;
+        font-size: 40;
         font-family: sans-serif;
         font-weight: 400;
-        float: left;
-        width: 40%;
-        height: 80px;
-        
-    
-}
+        display: flex;
+        width: 100%;}
+
+.cal{display: flex;
+  width: 100%;}
